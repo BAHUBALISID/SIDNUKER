@@ -5,7 +5,7 @@
     :radioactive: SID-Nuker :radioactive:
 </h1>
 <h3 align="center"> Made on Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br></h3>
-<h4 align="center">» [Discord Server - https://discord.gg/kolontop] «</h4>
+<h4 align="center">» [Discord Server - https://discord.gg/u872zDpf6V] «</h4>
 
 <p align="center">
     <a href="https://github.com/BAHUBALISID/Sidnuker/blob/master/README.md#Information" target="blank">Information</a>
