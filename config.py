@@ -14,7 +14,7 @@ AUTO_RAID_CONFIG = {
     'channel_type': 'text',  # text/voice     
     'channel_name': 'NUKED BY GHOST',  # Channel name      
     'num_messages': 30,  # Number of message to spam/better max 30     
-    'message_content': '@everyone JOIN  https://discord.gg/HKDRZzDufR'# Spam Message     
+    'message_content': '@everyone JOIN  https://discord.gg/jqPtTZnnb5'# Spam Message     
 }
 
 NO_BAN_KICK_ID = {
@@ -25,7 +25,7 @@ NO_BAN_KICK_ID = {
 
 BOT_PRESENCE = {
     "type": "streaming",  # "playing", "listening", or "watching"
-    "text": "sid_xD"  # you status like playing sid_xD
+    "text": "Ghost"  # you status like playing Ghost 
 }
 
 EMBED_CONFIG = {
